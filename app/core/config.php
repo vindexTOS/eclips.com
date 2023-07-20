@@ -3,7 +3,7 @@
 define('WEBSITE_NAME', 'My Website');
 
 define('DB_TYPE', 'mysql');
-define('DB_NAME', 'minima_db');
+define('DB_NAME', 'eclips');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_HOST', 'localhost');
